@@ -1,0 +1,19 @@
+{
+  "name": "auto-changepwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.17.2",
+    "puppeteer": "^11.0.0",
+    "tesseract.js": "^2.1.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
